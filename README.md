@@ -7,5 +7,5 @@
 <p>Aprés en utilisant les annotations on aure le code et l'affichage suivant :</p>
 <img src="captures/2-1.png">
 <img src="captures/2-2.png">
-<p>Enfin pour intégrer la varsion control j'ai utiliser les méthodes inclue dans "Intellij" pour accéder à github afin d'effectuer des "Push" ou "Pull"</p>
+<p style=" font-size:20;">Enfin pour intégrer la version control j'ai utiliser les méthodes inclue dans "Intellij" pour accéder à github afin d'effectuer des "Push" ou "Pull"</p>
 <img src="captures/3.png">
