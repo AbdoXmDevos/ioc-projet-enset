@@ -11,3 +11,5 @@ public class PresAvecSpring {
         System.out.println("Res = "+metier.calcul());
     }
 }
+
+
